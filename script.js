@@ -8,14 +8,11 @@
 
 // STEG 1: Beskriv nu i tur och ordning hur koden logiskt ska fungera för att lösa uppgiften
 
-function finalGrade(exam, projects) {
-  if (exam > 90 || projects > 10) {
-    return 100;
-  } else if (exam > 75 && projects >= 5) {
-    return 90;
-  } else if (exam > 50 && projects >= 2) {
-    return 75;
-  } else {
-    return 0;
-  }
-}
+/* if exam is bigger than 90 or number of projects is bigger than 10 
+    return grade is equal to 100
+or exam is bigger than 75 and number of projects bigger than or equal to 5
+    return grade is equal to 90
+or exam is bigger than 50 and number of projects bigger than or equal to 2
+    return grade is equal to 75
+otherwise
+    return grade is equal to 0 */
