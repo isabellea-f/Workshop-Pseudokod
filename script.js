@@ -4,9 +4,9 @@
 // exam(number, integer), projects(number, integer)
 
 // RETURN: Vad ska skickas tillbaka efter beräkning eller behandling av inputs och vilken typ har den
-// number, integer
+// grade (number, integer)
 
-// STEG 1: Beskriv nu i tur och ordning hur koden logiskt ska fungera för att lösa uppgiften
+// Beskriv nu i tur och ordning hur koden logiskt ska fungera för att lösa uppgiften
 
 /* if exam is bigger than 90 or number of projects is bigger than 10 
     return grade is equal to 100
