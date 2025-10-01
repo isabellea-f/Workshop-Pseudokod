@@ -6,7 +6,7 @@ Workshop i att skriva pseudokod. Våran uppgift gick ut på att beskriva logiken
 
 - :baby_chick: Isabelle Franzén
 - :koala: Haifa Bamehriz
-- :rabbit: Mattias Eskilsson
+- :bear: Mattias Eskilsson
 
 ## :mortar_board: Hur man kör projektet
 
